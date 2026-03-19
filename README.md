@@ -35,7 +35,7 @@ Players can create and install their own "Music Packs" containing music files an
 
 ### Downloads
 - BTW Music Player Mod: [Download Latest Release](https://github.com/BardRadogost/BTW-Music-Player/releases)
-- Sample Music Pack (`RadogostMusicPack.zip`): [Download Music Pack](https://github.com/BardRadogost/BTW-Music-Player/releases/tag/RadogostMusicPack)
+- Sample Music Pack (`RadogostMusicPack.zip`): [Download Music Pack](https://github.com/BardRadogost/BTW-Music-Player/releases/download/RadogostMusicPack_1.0.0/RadogostMusicPack.zip)
 - Source Code: [Browse on GitHub](https://github.com/BardRadogost/BTW-Music-Player)
 
 ### Requirements
@@ -254,7 +254,7 @@ Gracze mogą tworzyć i instalować własne "musicpacki" zawierające muzykę or
 
 ### Pobieranie
 - Modyfikacja BTW Music Player: [Pobierz najnowszą wersję](https://github.com/BardRadogost/BTW-Music-Player/releases)
-- Przykładowy Musicpack (`RadogostMusicPack.zip`): [Pobierz musicpack](https://github.com/BardRadogost/BTW-Music-Player/releases/tag/RadogostMusicPack)
+- Przykładowy Musicpack (`RadogostMusicPack.zip`): [Pobierz musicpack](https://github.com/BardRadogost/BTW-Music-Player/releases/download/RadogostMusicPack_1.0.0/RadogostMusicPack.zip)
 - Kod źródłowy: [Przeglądaj na GitHubie](https://github.com/BardRadogost/BTW-Music-Player)
 
 ### Wymagania
